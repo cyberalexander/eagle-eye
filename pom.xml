@@ -5,9 +5,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.eagle.eye</groupId>
 	<artifactId>eagle-eye</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>eagle-eye</name>
-	<description>eagle-eye</description>
+	<description>Eagle Eye Microservice based Application</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
