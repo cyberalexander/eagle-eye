@@ -6,9 +6,9 @@
 	<groupId>com.eagle.eye</groupId>
 	<artifactId>eagle-eye</artifactId>
 	<packaging>pom</packaging>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>2023.02.17-SNAPSHOT</version>
 	<name>eagle-eye</name>
-	<description>Eagle Eye Microservice based Application</description>
+	<description>Eagle Eye - Microservice based Application</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
