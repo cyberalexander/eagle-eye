@@ -1,4 +1,4 @@
-organisation.ssn: "DEFAULT-SSN-5528102"
+ea-organisation-service.organisation.ssn: "DEFAULT-SSN-5528102"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
