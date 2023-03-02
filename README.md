@@ -5,6 +5,7 @@ Eagle Eye license managing application. Developed based on Microservice architec
 - [licesing-service](https://github.com/cyberalexander/ea-licensing-service)
 - [organisation-service](https://github.com/cyberalexander/ea-organisation-service)
 - [configuration-service](https://github.com/cyberalexander/ea-config-service)
+- [services configuration](https://github.com/cyberalexander/eagle-eye)
 
 ### Useful links
 - [GitHub readme basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
