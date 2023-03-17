@@ -1,7 +1,7 @@
 ea.organisation.service.organisation.ssn: "PROD-SSN-74294123"
 spring.jpa.show-sql: "true"
-spring.jpa.database: "postgresql"
 spring.jpa.generate-ddl: "true"
+spring.jpa.database: "postgresql"
 spring.datasource.platform:  "postgres"
 spring.database.driver-class-name: "org.postgresql.Driver"
 spring.datasource.url: "jdbc:postgresql://localhost:5432/eagle_eye_prod"
